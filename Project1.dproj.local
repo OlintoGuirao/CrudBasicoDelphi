@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/10/04 11:52:35.000.376,=C:\Users\olinto.junior\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/04 13:35:03.000.941,=C:\Users\olinto.junior\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/10/04 16:32:12.000.358,=C:\Users\olinto.junior\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/10/04 16:32:25.000.014,=C:\Users\olinto.junior\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/10/04 16:47:27.000.952,C:\Users\olinto.junior\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\olinto.junior\Documents\Embarcadero\Studio\Projects\UMenuPricipal.pas</Transaction>
+    <Transaction>2022/10/04 16:47:27.000.952,C:\Users\olinto.junior\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\olinto.junior\Documents\Embarcadero\Studio\Projects\UMenuPricipal.dfm</Transaction>
+    <Transaction>2022/10/04 16:47:44.000.734,C:\Users\olinto.junior\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\olinto.junior\Documents\Embarcadero\Studio\Projects\UCadUsuario.dfm</Transaction>
+    <Transaction>2022/10/04 16:47:44.000.734,C:\Users\olinto.junior\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\olinto.junior\Documents\Embarcadero\Studio\Projects\UCadUsuario.pas</Transaction>
+    <Transaction>2022/10/04 17:39:45.000.952,C:\Users\olinto.junior\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\olinto.junior\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/10/05 16:16:40.000.993,=C:\Users\olinto.junior\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/05 16:38:09.000.095,C:\Users\olinto.junior\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\olinto.junior\Documents\Embarcadero\Studio\Projects\UDm.pas</Transaction>
+    <Transaction>2022/10/05 16:38:09.000.095,C:\Users\olinto.junior\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\olinto.junior\Documents\Embarcadero\Studio\Projects\UDm.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
